@@ -1,0 +1,7 @@
+languange: ruby
+
+rvm:
+  - 2.5.1
+
+services:
+  - docker
