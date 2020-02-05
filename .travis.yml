@@ -1,7 +1,5 @@
-languange: ruby
+lang: ruby
 
-rvm:
-  - 2.5.1
+script: bundle exec rake
 
-services:
-  - docker
+rvm: 2.1
